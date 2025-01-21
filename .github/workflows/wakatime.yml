@@ -11,7 +11,10 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master  # 使用特定版本，提高稳定性
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
+      - name: Check workflow status
+        if: ${{ failure() }}
+        run: |
+          echo "Workflow failed. Check previous steps for errors."  # 输出错误日志
