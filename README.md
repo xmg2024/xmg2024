@@ -107,6 +107,11 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmg2024)](https://github.com/xmg2024/github-readme-stats)
