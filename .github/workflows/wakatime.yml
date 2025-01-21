@@ -14,6 +14,7 @@ jobs:
       - uses: athul/waka-readme@master  # 使用特定版本，提高稳定性
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Check workflow status
         if: ${{ failure() }}
         run: |
