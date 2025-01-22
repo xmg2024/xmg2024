@@ -116,6 +116,7 @@ No activity tracked
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmg2024&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmg2024)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xmg2024&repo=xmg2024)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
