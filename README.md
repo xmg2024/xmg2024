@@ -45,11 +45,11 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>最近在看《史前星球第二季》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-11
-* <a href='https://book.douban.com/subject/30424330/' target='_blank'>最近在读《Go语言并发之道》</a> 🌟🌟🌟 推荐- 2023-06-10
-* <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读《三国志》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-10
-* <a href='https://book.douban.com/subject/36094930/' target='_blank'>看过《史记》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-01
-* <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过《DOOM启示录》</a> 🌟🌟🌟🌟🌟 力荐- 2022-10-07
+* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>最近在看《灵笼第二季》</a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
+* <a href='https://book.douban.com/subject/30424330/' target='_blank'>最近在读《动手学深度学习（李沐）》</a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
+* <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读《推荐系统实践（项亮）》</a> 🌟🌟🌟🌟 推荐- 2025-07-12
+* <a href='https://book.douban.com/subject/36094930/' target='_blank'>看过《雷军乘势而为》</a> 🌟🌟🌟 推荐- 2025-07-12
+* <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过《任正非-永远思考失败》</a> 🌟🌟🌟 推荐- 2025-07-12
 <!-- END_SECTION:douban -->
 
 </td></tr>
