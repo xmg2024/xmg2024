@@ -21,22 +21,10 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<p>&emsp;&emsp;大家好，我是小马同学。</p>
+<p>&emsp;&emsp;大家好，我是xmg2024。</p>
 <p>&emsp;&emsp;热爱编程、电影、读书、运动和旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和互联网事业，励志成为优秀的开源开发者。</p>
+<p>&emsp;&emsp;热爱计算机科学和互联网事业，励志成为优秀的计算机程序开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码来理解世界和改变世界。</p>
-
-</td></tr>
-
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<!-- START_SECTION:blog -->
-* <a href='https://blog.csdn.net/u013146882/article/details/79265924' target='_blank'>JData数据处理及高潜用户购买意向预测 </a> - 2018-02-05
-* <a href='https://blog.csdn.net/u013146882/article/details/77685123' target='_blank'>srand()和rand() </a> - 2017-08-29
-<!-- END_SECTION:blog -->
 
 </td></tr>
 
