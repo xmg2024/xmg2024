@@ -50,7 +50,7 @@
 
 ```mermaid
 mindmap
-  root((小马同学))
+  root((xmg2024))
     编程
       深度学习
       强化学习
