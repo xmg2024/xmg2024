@@ -33,11 +33,11 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching <<The Cage Season 2>> </a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
-* <a href='https://book.douban.com/subject/30424330/' target='_blank'>Recently reading "Dive into Deep Learning (Li Mu)" </a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
-* <a href='https://book.douban.com/subject/5403729/' target='_blank'>Recently reading "PyTorch Advanced Machine Learning Practice" </a> 🌟🌟🌟🌟 推荐- 2025-07-12
-* <a href='https://book.douban.com/subject/36094930/' target='_blank'>Have watched "Lei Jun: Riding the Wave" </a> 🌟🌟🌟 推荐- 2025-07-12
-* <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过《任正非-永远思考失败》</a> 🌟🌟🌟 推荐- 2025-07-12
+* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "The Cage Season 2"《灵笼第二季》 </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-07-12
+* <a href='https://book.douban.com/subject/30424330/' target='_blank'>Recently reading "Dive into Deep Learning (Li Mu)"《动手学深度学习（李沐）》 </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-07-12
+* <a href='https://book.douban.com/subject/5403729/' target='_blank'>Recently reading "PyTorch Advanced Machine Learning Practice"《PyTorch高级机器学习实战》 </a> 🌟🌟🌟🌟 Recommend- 2025-07-12
+* <a href='https://book.douban.com/subject/36094930/' target='_blank'>Have watched "Lei Jun: Riding the Wave"《雷军乘势而为》</a> 🌟🌟🌟 Recommend- 2025-07-12
+* <a href='https://book.douban.com/subject/26642310/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-07-12
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -46,7 +46,7 @@
 
 <!-- 兴趣爱好统计 -->
 
-🕹️ 兴趣爱好
+🕹️ Hobbies & Interests
 
 ```mermaid
 mindmap
@@ -74,19 +74,19 @@ mindmap
 ```
   
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+💪 Currently Learning
   
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
   
-🧠 计划学习
+🧠 Planned Learning
   
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 
-🧰 常用工具
+🧰 Frequently Used Tools
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
