@@ -64,9 +64,9 @@ mindmap
     Travel
       Beijing
       Shenzhen
-      香港
-      广州
-      上海
+      Hong Kong
+      Guangzhou
+      Shanghai
     阅读
       人物传记
       机器学习 
