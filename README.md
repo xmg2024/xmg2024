@@ -67,10 +67,10 @@ mindmap
       Hong Kong
       Guangzhou
       Shanghai
-    阅读
-      人物传记
-      机器学习 
-      经济学
+    Reading
+      Biographies
+      Machine Learning 
+      Economics
 ```
   
 <!--  skill badge 技能徽章 -->
