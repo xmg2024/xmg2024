@@ -51,10 +51,10 @@
 ```mermaid
 mindmap
   root((xmg2024))
-    编程
-      深度学习
-      强化学习
-      AI Infra
+    Programming
+      Deep Learning
+      Reinforcement Learning
+      AI Infrastructure
       Text2Motion
       Video2Motion
     运动
