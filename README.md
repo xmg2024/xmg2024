@@ -21,10 +21,10 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<p>&emsp;&emsp;大家好，我是xmg2024。</p>
-<p>&emsp;&emsp;热爱编程、电影、读书、运动和旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和互联网事业，励志成为优秀的计算机程序开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码来理解世界和改变世界。</p>
+<p>&emsp;&emsp;Hello, everyone，I'm xmg2024. </p>
+<p>&emsp;&emsp;Love programming, movies, reading, sports, and travel. </p>
+<p>&emsp;&emsp;Love computer science and internet career, aspiring to become an excellent computer programmer. </p>
+<p>&emsp;&emsp;We are making this world a better place, understanding and changing the world through code. </p>
 
 </td></tr>
 
@@ -33,10 +33,10 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>最近在看《灵笼第二季》</a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
-* <a href='https://book.douban.com/subject/30424330/' target='_blank'>最近在读《动手学深度学习（李沐）》</a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
-* <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读《PyTorch高级机器学习实战》</a> 🌟🌟🌟🌟 推荐- 2025-07-12
-* <a href='https://book.douban.com/subject/36094930/' target='_blank'>看过《雷军乘势而为》</a> 🌟🌟🌟 推荐- 2025-07-12
+* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching <<The Cage Season 2>> </a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
+* <a href='https://book.douban.com/subject/30424330/' target='_blank'>Recently reading "Dive into Deep Learning (Li Mu)" </a> 🌟🌟🌟🌟🌟 力荐- 2025-07-12
+* <a href='https://book.douban.com/subject/5403729/' target='_blank'>Recently reading "PyTorch Advanced Machine Learning Practice" </a> 🌟🌟🌟🌟 推荐- 2025-07-12
+* <a href='https://book.douban.com/subject/36094930/' target='_blank'>Have watched "Lei Jun: Riding the Wave" </a> 🌟🌟🌟 推荐- 2025-07-12
 * <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过《任正非-永远思考失败》</a> 🌟🌟🌟 推荐- 2025-07-12
 <!-- END_SECTION:douban -->
 
