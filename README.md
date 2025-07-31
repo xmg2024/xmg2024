@@ -57,13 +57,13 @@ mindmap
       AI Infrastructure
       Text2Motion
       Video2Motion
-    运动
-      长跑
-      游泳
-      健身
-    旅行
-      北京
-      深圳
+    Sports
+      Long-distance Running
+      Swimming
+      Fitness
+    Travel
+      Beijing
+      Shenzhen
       香港
       广州
       上海
