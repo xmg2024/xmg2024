@@ -21,10 +21,10 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<p>&emsp;&emsp;Hello, everyone，I'm xmg2024. </p>
-<p>&emsp;&emsp;Love programming, movies, reading, sports, and travel. </p>
-<p>&emsp;&emsp;Love computer science and internet career, aspiring to become an excellent computer programmer. </p>
-<p>&emsp;&emsp;We are making this world a better place, understanding and changing the world through code. </p>
+<p>&emsp;&emsp;Hello， 大家好，我是xmg2024。 </p>
+<p>&emsp;&emsp;热爱编程， 电影， 阅读， 运动和旅游。 </p>
+<p>&emsp;&emsp;热爱计算机科学和互联网， 励志成为一个优秀的程序员。 </p>
+<p>&emsp;&emsp;我们正在让这个世界更好， 通过代码理解和改变世界。 </p>
 
 </td></tr>
 
