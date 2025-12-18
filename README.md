@@ -44,67 +44,7 @@
 
 <div align="center" >
 
-<!-- 兴趣爱好统计 -->
-
-🕹️ Hobbies & Interests
-
-```mermaid
-mindmap
-  root((xmg2024))
-    Programming
-      Deep Learning
-      Reinforcement Learning
-      AI Infrastructure
-      Text2Motion
-      Video2Motion
-    Sports
-      Long-distance Running
-      Swimming
-      Fitness
-    Travel
-      Beijing
-      Shenzhen
-      Hong Kong
-      Guangzhou
-      Shanghai
-    Reading
-      Biographies
-      Machine Learning 
-      Economics
-```
-  
-<!--  skill badge 技能徽章 -->
-💪 Currently Learning
-  
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-  
-🧠 Planned Learning
-  
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-
-🧰 Frequently Used Tools
-
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmg2024&count_private=true&show_icons=true&theme=synthwave&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmg2024&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
- <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xmg2024&repo=xmg2024)](https://github.com/anuraghazra/github-readme-stats)-->
-
 
 
 
