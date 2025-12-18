@@ -34,8 +34,6 @@
 
 <!-- START_SECTION:douban -->
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "The Cage Season 2"《灵笼第二季》 </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-07-12
-* <a href='https://book.douban.com/subject/30424330/' target='_blank'>Recently reading "Dive into Deep Learning (Li Mu)"《动手学深度学习（李沐）》 </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-07-12
-* <a href='https://book.douban.com/subject/5403729/' target='_blank'>Recently reading "PyTorch Advanced Machine Learning Practice"《PyTorch高级机器学习实战》 </a> 🌟🌟🌟🌟 Recommend- 2025-07-12
 * <a href='https://book.douban.com/subject/36094930/' target='_blank'>Have watched "Lei Jun: Riding the Wave"《雷军乘势而为》</a> 🌟🌟🌟 Recommend- 2025-07-12
 * <a href='https://book.douban.com/subject/26642310/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-07-12
 <!-- END_SECTION:douban -->
