@@ -37,7 +37,7 @@
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "The Double Helix (James Watson)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "What Babies Know (Elizabeth Spelke)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/26864398/' target='_blank'>Have watched "Lei Jun: Riding the Wave"《雷军乘势而为》</a> 🌟🌟🌟 Recommend- 2025-10-12
-* <a href='https://book.douban.com/subject/26642310/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-10-12
+* <a href='https://book.douban.com/subject/32579437/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-10-12
 <!-- END_SECTION:douban -->
 
 </td></tr>
