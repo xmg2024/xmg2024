@@ -39,11 +39,9 @@
 * <a href='https://book.douban.com/subject/26864398/' target='_blank'>Have watched "Lei Jun: Riding the Wave"《雷军乘势而为》</a> 🌟🌟🌟 Recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/32579437/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-10-12
 <!-- END_SECTION:douban -->
-
 </td></tr>
-
 <div align="center" >
-
+  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmg2024&count_private=true&show_icons=true&theme=synthwave&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
 
 
