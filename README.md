@@ -35,7 +35,7 @@
 * <a href='https://book.douban.com/subject/35084167/' target='_blank'>Recently watching "The Art of Doing Science and Engineering (Richard Hamming)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/19842063/' target='_blank'>Recently watching "Lectures on General Relativity (David Tong)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/6742298/' target='_blank'>Recently watching "The Double Helix (James Watson)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
-* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "What Babies Know (Elizabeth Spelke)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
+* <a href='https://book.douban.com/subject/36246143/' target='_blank'>Recently watching "What Babies Know (Elizabeth Spelke)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/26864398/' target='_blank'>Have watched "Lei Jun: Riding the Wave"《雷军乘势而为》</a> 🌟🌟🌟 Recommend- 2025-10-12
 * <a href='https://book.douban.com/subject/32579437/' target='_blank'>Have watched "Ren Zhengfei: Always Thinking About Failure"《任正非-永远思考失败》</a> 🌟🌟🌟 Recommend- 2025-10-12
 <!-- END_SECTION:douban -->
