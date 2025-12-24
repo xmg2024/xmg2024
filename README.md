@@ -32,7 +32,7 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "The Art of Doing Science and Engineering (Richard Hamming)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
+* <a href='https://book.douban.com/subject/35084167/' target='_blank'>Recently watching "The Art of Doing Science and Engineering (Richard Hamming)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "Lectures on General Relativity (David Tong)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "The Double Helix (James Watson)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
 * <a href='https://movie.douban.com/subject/36292415/' target='_blank'>Recently watching "What Babies Know (Elizabeth Spelke)" </a> 🌟🌟🌟🌟🌟 Highly recommend- 2025-10-12
